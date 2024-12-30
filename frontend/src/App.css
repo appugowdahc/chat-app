@@ -1,0 +1,12 @@
+.App {
+  min-height: 98vh;
+  background-image: url('./assets/images/login_page.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex; 
+  align-items: center;
+  justify-content: center;  
+  flex-direction: column;
+  margin-top: 0px; 
+}
